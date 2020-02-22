@@ -116,7 +116,7 @@ O jogador apenas terá sua velocidade impactada quando estiver segurando um proc
 
 __Caso o jogador não estiver segurando um processo sua velocidade não será afetada.__
 
-## Mecanicas que faltam visualização de como transformar em game:
+## Ideias futuras:
 
 - Memoria swap.
 - Virtualização da memória.
